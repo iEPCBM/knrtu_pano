@@ -2,6 +2,50 @@ var APP_DATA = {
   "scenes": [
     {
       "id": "0--",
+      "name": "Корпус Д",
+      "levels": [
+        {
+          "tileSize": 256,
+          "size": 256,
+          "fallbackOnly": true
+        },
+        {
+          "tileSize": 512,
+          "size": 512
+        },
+        {
+          "tileSize": 512,
+          "size": 1024
+        },
+        {
+          "tileSize": 512,
+          "size": 2048
+        }
+      ],
+      "faceSize": 2000,
+      "initialViewParameters": {
+        "yaw": -1.7296395345286584,
+        "pitch": 0.3796412250183234,
+        "fov": 1.325599857056214
+      },
+      "linkHotspots": [
+        {
+          "yaw": -1.8947204732898904,
+          "pitch": -0.0884341855912485,
+          "rotation": 5.497787143782138,
+          "target": "4-"
+        },
+        {
+          "yaw": -1.560968499438495,
+          "pitch": -0.08384025107346815,
+          "rotation": 0.7853981633974483,
+          "target": "5------"
+        }
+      ],
+      "infoHotspots": []
+    },
+    {
+      "id": "1--",
       "name": "Танцевальный зал",
       "levels": [
         {
@@ -33,7 +77,7 @@ var APP_DATA = {
           "yaw": -0.25860251013163094,
           "pitch": 0.32485337187092966,
           "rotation": 5.497787143782138,
-          "target": "3-"
+          "target": "4-"
         }
       ],
       "infoHotspots": [
@@ -46,7 +90,7 @@ var APP_DATA = {
       ]
     },
     {
-      "id": "1---",
+      "id": "2---",
       "name": "Сцена актового зала",
       "levels": [
         {
@@ -77,7 +121,7 @@ var APP_DATA = {
       "infoHotspots": []
     },
     {
-      "id": "2--",
+      "id": "3--",
       "name": "Актовый зал",
       "levels": [
         {
@@ -113,25 +157,25 @@ var APP_DATA = {
           "yaw": 0.057818761696360355,
           "pitch": 0.2882037088770524,
           "rotation": 0,
-          "target": "1---"
+          "target": "2---"
         },
         {
           "yaw": 2.8226566422968116,
           "pitch": -0.1605721311388102,
           "rotation": 0.7853981633974483,
-          "target": "3-"
+          "target": "4-"
         },
         {
           "yaw": -0.48179617046022827,
           "pitch": 0.2657996833253833,
           "rotation": 5.497787143782138,
-          "target": "4--"
+          "target": "0--"
         }
       ],
       "infoHotspots": []
     },
     {
-      "id": "3-",
+      "id": "4-",
       "name": "Коворкинг",
       "levels": [
         {
@@ -155,57 +199,19 @@ var APP_DATA = {
           "yaw": 0.3695858923700719,
           "pitch": 0.04841957741018632,
           "rotation": 0,
-          "target": "4--"
+          "target": "0--"
         },
         {
           "yaw": 0.5269137683726015,
           "pitch": 0.07210385738815539,
           "rotation": 7.0685834705770345,
-          "target": "0--"
-        }
-      ],
-      "infoHotspots": []
-    },
-    {
-      "id": "4--",
-      "name": "Корпус Д",
-      "levels": [
-        {
-          "tileSize": 256,
-          "size": 256,
-          "fallbackOnly": true
+          "target": "1--"
         },
         {
-          "tileSize": 512,
-          "size": 512
-        },
-        {
-          "tileSize": 512,
-          "size": 1024
-        },
-        {
-          "tileSize": 512,
-          "size": 2048
-        }
-      ],
-      "faceSize": 2000,
-      "initialViewParameters": {
-        "yaw": -1.7296395345286584,
-        "pitch": 0.3796412250183234,
-        "fov": 1.325599857056214
-      },
-      "linkHotspots": [
-        {
-          "yaw": -1.8947204732898904,
-          "pitch": -0.0884341855912485,
+          "yaw": 2.6153085327069814,
+          "pitch": 0.4044927719382656,
           "rotation": 5.497787143782138,
-          "target": "3-"
-        },
-        {
-          "yaw": -1.560968499438495,
-          "pitch": -0.08384025107346815,
-          "rotation": 0.7853981633974483,
-          "target": "5------"
+          "target": "3--"
         }
       ],
       "infoHotspots": []
@@ -247,7 +253,7 @@ var APP_DATA = {
           "yaw": -3.0695649087155807,
           "pitch": 0.5567602392222479,
           "rotation": 5.497787143782138,
-          "target": "4--"
+          "target": "0--"
         }
       ],
       "infoHotspots": [
