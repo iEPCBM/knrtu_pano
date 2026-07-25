@@ -266,7 +266,7 @@ var APP_DATA = {
           "yaw": -0.31596549875355784,
           "pitch": 0.07039910220548862,
           "title": "Баскетбольная площадка",
-          "text": "<img src=\"/photos/thumbs/2_0.jpg\" style=\"width: 180px\"><div>Фотограф:&nbsp;Диля Коваль</div>"
+          "text": "<img src=\"/photos/thumbs/3_0.jpg\" style=\"width: 180px\"><div>Фотограф:&nbsp;Диля Коваль</div>"
         }
       ]
     },
@@ -373,7 +373,7 @@ var APP_DATA = {
           "yaw": -1.4009752384036176,
           "pitch": 0.056282028870256795,
           "title": "2024",
-          "text": "<img src=\"/photos/thumbs/2_2.jpg\" style=\"width: 180px\"><p>Всероссийский фестиваль массового футбола по мини-футболу в формате 7х7 среди женских команд 2024</p><p>Фото: Спортивный клуб КНИТУ</p>"
+          "text": "<img src=\"/photos/thumbs/3_2.jpg\" style=\"width: 180px\"><p>Всероссийский фестиваль массового футбола по мини-футболу в формате 7х7 среди женских команд 2024</p><p>Фото: Спортивный клуб КНИТУ</p>"
         }
       ]
     },
@@ -580,13 +580,13 @@ var APP_DATA = {
           "yaw": 0.5762102008426364,
           "pitch": 0.20113298670803026,
           "title": "День спорта ИУАИТ, 2025",
-          "text": "<img src=\"/photos/thumbs/2_1.jpg\" style=\"width: 180px\"><p>Фото: Юшкова Полина</p>"
+          "text": "<img src=\"/photos/thumbs/3_1.jpg\" style=\"width: 180px\"><p>Фото: Юшкова Полина</p>"
         },
         {
           "yaw": -0.7791761997193998,
           "pitch": 0.10066386720959564,
           "title": "КРОНОСФЕСТ - 2025",
-          "text": "<img src=\"/photos/thumbs/2_3.jpg\" style=\"width: 180px\"><div>Фото:&nbsp;София Ярощук</div>"
+          "text": "<img src=\"/photos/thumbs/3_3.jpg\" style=\"width: 180px\"><div>Фото:&nbsp;София Ярощук</div>"
         }
       ]
     },
